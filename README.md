@@ -1,3 +1,4 @@
+![protein](https://user-images.githubusercontent.com/19572673/62321874-b86d8480-b471-11e9-8b70-39923375746e.jpg)
 # Proteomics_Analysis
 ## Background
 Brief background- Urinalyses are an important part of a patient work up in order to assess kidney function. UAs consist of 
