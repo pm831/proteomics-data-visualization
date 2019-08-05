@@ -1,5 +1,5 @@
 ![protein](https://user-images.githubusercontent.com/19572673/62321969-f10d5e00-b471-11e9-9fac-315ac7e82035.jpg)
-# Proteomics_Analysis
+# Proteomics Analysis
 ## Abstract
 Urinalyses are an important part of a patient work up in order to assess kidney function. UAs consist of physical, ##chemical and microscopic analyses of the urine.  
 More specific information about UAs and their interpretation can be found here (http://www.eclinpath.com/urinalysis/). 
