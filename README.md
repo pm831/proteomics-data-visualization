@@ -1,8 +1,7 @@
 ![protein](https://user-images.githubusercontent.com/19572673/62321969-f10d5e00-b471-11e9-9fac-315ac7e82035.jpg)
 # Proteomics_Analysis
-## Background
-Brief background- Urinalyses are an important part of a patient work up in order to assess kidney function. UAs consist of 
-physical, ##chemical and microscopic analyses of the urine.  
+## Abstract
+Urinalyses are an important part of a patient work up in order to assess kidney function. UAs consist of physical, ##chemical and microscopic analyses of the urine.  
 More specific information about UAs and their interpretation can be found here (http://www.eclinpath.com/urinalysis/). 
 While dipstick tests are commonly used as a sensitive measure to detect proteinuria (the presence of protein in the urine), the urine protein:creatinine ratio is recognized as a more accurate assessment of proteinuria. 
 UPCs are commonly used as a follow up test when protein is detected in UA results via dipstick, as it requires a separate workflow in the laboratory and is run on a chemistry analyzer. 
@@ -15,6 +14,9 @@ Please use the indicated parameters found below in the MedX Test Directory for y
 MedX Test Directory info: Urinalysis with Reflex UPC (If Indicated) (2326)
 If the urinalysis is positive for protein and the sediment is not active, a urine protein:creatinine (UPC) ratio is automatically performed. 
 If the urinalysis is negative for protein, or if there is an active sediment (white blood cells ≥6/hpf, red blood cells ≥ 100/hpf,  color is red or pink, and/or bacteria are seen), the UPC ratio will not be performed. The test price is the same whether or not a UPC ratio is performed.
+
+## Industry:
+### Biotechnology
 
 ## Use Case:
 ### Figuring out if the urianalysis was positive for protein
