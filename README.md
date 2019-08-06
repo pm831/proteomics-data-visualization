@@ -3,11 +3,11 @@
 ## Abstract
 Urinalyses are an important part of a patient work up in order to assess kidney function. UAs consist of physical, ##chemical and microscopic analyses of the urine.  
 More specific information about UAs and their interpretation can be found here 
-##### (http://www.eclinpath.com/urinalysis/). 
+##### http://www.eclinpath.com/urinalysis/. 
 While dipstick tests are commonly used as a sensitive measure to detect proteinuria (the presence of protein in the urine), the urine protein:creatinine ratio is recognized as a more accurate assessment of proteinuria. 
 UPCs are commonly used as a follow up test when protein is detected in UA results via dipstick, as it requires a separate workflow in the laboratory and is run on a chemistry analyzer. 
 Additional information can be found here 
-##### (http://www.eclinpath.com/urinalysis/chemical-constituents/).   
+##### http://www.eclinpath.com/urinalysis/chemical-constituents/.   
 
 ACME is a corporate account that has been running UPCs (urine protein creatinine ratios) on most of their UAs (urinalyses) they send in to the MedX reference lab. 
 Their pricing is changing and they will no longer be receiving UPCs for free.  
