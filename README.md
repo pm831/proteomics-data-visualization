@@ -18,16 +18,16 @@ If the urinalysis is positive for protein and the sediment is not active, a urin
 If the urinalysis is negative for protein, or if there is an active sediment (white blood cells ≥6/hpf, red blood cells ≥ 100/hpf,  color is red or pink, and/or bacteria are seen), the UPC ratio will not be performed. The test price is the same whether or not a UPC ratio is performed.
 
 ## Industry:
-### Biotechnology
+Biotechnology
 
 ## Use Case:
-### Figuring out if the urianalysis was positive for protein
+Figuring out if the urianalysis was positive for protein
 ## Initial Dataset:
-### ACME_Data
+ACME_Data
 ## Software:
-### R (ggplot2)
+R (ggplot2)
 ## Basic Steps:
-#### Downloaded the dataset. 
+Downloaded the dataset. 
 
 ##### 1.	How many urinalyses were run?
 ![UA_Count](https://user-images.githubusercontent.com/19572673/62091688-321e2c00-b240-11e9-8d74-d141e18d780a.PNG)
